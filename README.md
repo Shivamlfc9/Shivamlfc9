@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shivamlfc9
 - 👀 I’m interested in ...Programming
 - 🌱 I’m currently learning ...DevOps & (Full Stacks-Developer)
-- 💞️ I’m looking to collaborate on ...Web & Mobile APPs
+- 💞️ I’m looking to collaborate on ...Web/Server & Mobile APPs
 - 📫 How to reach me ...@mr_achrekar_s9
 
 <!---

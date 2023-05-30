@@ -1,7 +1,7 @@
 - 👋 Hi, its @Shivamlfc9.,
-- 💯 I creates websites that capture users !!!.,
+- 💯 I creates Products that capture users !!!.,
 - 👀 I’m interested in ... UI/UX Designing.,
-- 🌱 Also, I’m currently learning ...Mobile App development with Flutter & Dart.,
+- 🌱 Also, I’m currently into ...Mobile & web App development with Flutter,Dart & Python,
 - 💞️ I’m looking to collaborate on ...Websites & Web-Apps & Mobile Apps.,
 - 📫 How to reach me Insta...@mr_achrekar_s9 , LinkedIn... www.linkedin.com/in/shivam-achrekar-3110111b6  , & on Behance... https://www.behance.net/shivamachrekar  .
 
